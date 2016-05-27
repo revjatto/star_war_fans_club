@@ -1,0 +1,19 @@
+{
+  "name": "star_wars_movies",
+  "version": "1.0.0",
+  "description": "A basic movie app for star war fans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "star_war_fans_club"
+  },
+  "author": "Richard Jatto",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4"
+  }
+}
